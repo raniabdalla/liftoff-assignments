@@ -15,12 +15,12 @@ It's a more secure encrypted web app for keeping your own notes. Users will be a
 - Managed Stored Encrypted Note: Users will be able to edit, delete, and set a time limit for their messages.
 - Create Anonymous Encrypted Note: Users would be able to create a note anonymously. The note would be accessed via a key.
 ### Technologies
+- Front-End: JavaScript, CSS, HTML
 - Java
 - Spring Boot
 - MySQL
 - Hibernate
 - Thymeleaf templates
-- Front-End: JavaScript, CSS, HTML
 ### What I'll Have to Learn
 Encryption/Decryption Methods, Authorization, Authentication, CRUD operations
 ### Project Tracker
