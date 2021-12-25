@@ -9,7 +9,7 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-file:///C:/Users/rania/OneDrive/Desktop/wireframe.pdf
+https://github.com/raniabdalla/liftoff-assignments/blob/master/P3-Project_Planning/wireframe.docx
 
 ### Project Tracker
 
